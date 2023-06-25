@@ -10,6 +10,9 @@
 ```
 docker compose up
 ```
+
+access localhost:8888
+
 ### enter container
 
 ```
