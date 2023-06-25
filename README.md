@@ -23,10 +23,8 @@ docker compose exec app bash
 ### 1. BoostYourOwnDepth demo
 
 #### ref
-
 - https://github.com/compphoto/BoostYourOwnDepth
-
-wip
+  - np.float を np.float64 に変える必要あり 
 
 ### 2. BoostingMonocularDepth demo
 
