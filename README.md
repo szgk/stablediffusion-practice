@@ -1,8 +1,8 @@
 ## Index
 
 - Generate depth map
-  1. BoostYourOwnDepth demo
-  1. BoostingMonocularDepth demo
+  1. [BoostYourOwnDepth demo](https://github.com/szgk/stablediffusion-practice#1-boostyourowndepth-demo)
+  1. [BoostingMonocularDepth demo](https://github.com/szgk/stablediffusion-practice#2-boostingmonoculardepth-demo)
 -
 
 ## 1. BoostYourOwnDepth demo
