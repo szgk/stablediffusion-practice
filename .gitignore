@@ -1,4 +1,6 @@
 .history/
 .ipynb_checkpoints/
 src/BoostingMonocularDepth/
+src/BoostYourOwnDepth/
 get-pip.py
+.Trash-*
