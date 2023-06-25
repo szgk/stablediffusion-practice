@@ -1,0 +1,4 @@
+.history/
+.ipynb_checkpoints/
+src/BoostingMonocularDepth/
+get-pip.py

@@ -1,0 +1,18 @@
+version: '3'
+services:
+  app:
+    build: .
+    volumes:
+      - ./:/app
+    ports:
+      - 8888:8888
+    tty: true
+    # stable-diffusion-webui-dockerから流用
+    stop_signal: SIGINT
+    deploy:
+      resources:
+        reservations:
+          devices:
+              - driver: nvidia
+                device_ids: ['0']
+                capabilities: [compute, utility]
