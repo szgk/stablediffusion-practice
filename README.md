@@ -31,4 +31,4 @@ docker compose exec app bash
 #### ref
 - https://github.com/compphoto/BoostingMonocularDepth
   - np.float を np.float64 に変える必要あり
-- https://zenn.dev/ushknn/articles/19e9aa500cb1e7
+- https://www.12-technology.com/2022/07/mergenet.html
